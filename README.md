@@ -1,22 +1,68 @@
 # Infomatik-logbog
 Her er min mega seje infomatik logbog som mark bliver mega glad for
 
-# grundforløbet
+## grundforløbet
 
-I grundforløbet har jeg lavet en app på applab, hvor vi har lavet en hifi prototype af en app tilbilmærket astonmartin, her havde vi stort fokus på brugertest, gestalt love, og at få en god opblevelse for brugeren
+I grundforløbet har jeg lavet en app på applab, hvor vi har lavet en hifi prototype af en app tilbilmærket astonmartin, her havde vi stort fokus på:
 
-# kodning
+- Målgruppe analyse
+- De 5 gestaltlove
+  - Loven om- nærhed, lighed, lukkethed, forbundethed og firgur og bagrunde
+- Bruger test
+  - Tænke højt test
+- En god bruger opblevelse
+- Hi-Fi og Lo-Fi prototyper
 
-Da vi startede her i mat fys startede vi med at have om kodning. Her skulle vi lære at kode i p5 js, som er en web verstion af java script. Her kodet vi lidt forskellige projkter. 
-vi startede med at prøve os frem med at kode, hvor vi bare skulle skrive lidt tilfældige ting ind, og se hvad der skete, efter det øvede vi os på at lave flowcharts, hvor vi skulle lave et flowchart af vores kode.
-efter vi havde lært om flowcharts, så lærte vi om data typer: int (tal), boolean (sandt eller falsk), str (tekst). Så lærte vi også om loops (for loopog while loop), og lister.
+## kodning
 
-efter vi havde lært alt det om koden fik vi et lille projkt hvor vi skulle kode en trekant, med en masse små punkter, (https://editor.p5js.org/sylvesterblaa/sketches/U-oo_1SdJ).
+Efter vi startede i vores studieretningsklasse, havde vi et forløb om programering, her havde vi stort fokus på:
 
-# kryptering
+- At lære at læse og skrive kode
+  - Lære at skrive i p5js (Java script)
+  - lære basis syntax
+  - lære at skrive kommentar i koden
+- Lære at lave og aflæse flowcharts
+- lære om data typer
+  - int (alle tal da java script ikke skælner mellem hele tal og komma tal)
+  - boolean (sandt eller falsk / 1 eller 0)
+  - str (tekst)
+-variabler (et navn der kan have en bestemt værdi tilknyttet, og hvor der nogle gange vil kunne ændres på værdien) 
+- Lære om forskellige typer af loops
+  - For loop (gentaer et stykke kode et bestemt antal gange, mens den ligger en til en hovde variable (den der også styre hvor mange gange det køre)(det samme som en sigma sum))
+  - while loop (gentager et stykke kode, så længe et udtryk er sandt)
+- if statements (udføre en linje kode, så læge et udtryk er sandt)
+  - else statements (udførekode hvis udtrykket ikke er sandt)
+  - if else (udføre koden hvis det første udtryk ikke er sandt, men et andet er)
+- Lister (en gruppering af værdier, i en systematisk rekkefølge, hvor der kan læses fjernes og/eller tilføjes værdier)
 
-Efter vi havde om kodning så havde vi om kryptering, hvor vi startede med at have om asymetrisk og symetrisk kryptering, og forskellige metoder man har til at kryptere (RSA, cesar), her prøvede vi også at lave et lille program til at kryptere en simpel besked (https://editor.p5js.org/sylvesterblaa/sketches/av8SzHfc-)
+  ### Projekter 
+vi har også lavet et par små projkter her hvor vi har haft om kodning, vi har lavet:
+- Jeg har lavet et program hvor jeg har kodet en tegneblock, hvor man som brugeren kan tegne i (https://editor.p5js.org/sylvesterblaa/sketches/x0iUDvgQX)
+- jeg har også lavet et program af 2 "bolde" der hopper på kanterne af skærmen (https://editor.p5js.org/sylvesterblaa/sketches/z9Bdv-H3L)
+- og så har jeg lavet et program som der tegner sierpinskis trekant (https://editor.p5js.org/sylvesterblaa/sketches/U-oo_1SdJ)
+ 
+## kryptering
 
-# 3d stuff
+Efter vi har haft om progrmering havde vi om kryptering, her havde vi om:
+- kryptering
+  - symmetrisk kryptering (hvor både modtager og sender har den samme nøgle. fx cesar kryptering)
+  - asymetrisk kryptering (hvor sender og modtager har hver sin nøgle, en offenlig nøgle og en privat nøgle. fx RSA)
+ 
+### projkter 
 
-Vi har også haft om det at tegne i 3d og 3d print. Her har vi lært hvordan man printer i 3d, tegner i 3d (cad og slicer) og lidt om alle de seje ting der er i makerspace.
+her havde vi også et lille projket:
+
+- vi skulle lave et lille program der kunne cecar kryptere en string (https://editor.p5js.org/sylvesterblaa/sketches/av8SzHfc-) (dog så blev jeg ikke helt færdig :( )
+
+## 3d stuff
+
+Vi har også haft om 3d stuff, her havde vi om:
+
+- at lave 3d modeller
+  - at tegne i cad (her har jeg brugt fusion og onshape)
+  - slicer (vi har også brugt en slicer til at omdanne vores 3d figurere til gkode så en 3d printer kan læse)
+- vi har også haft om alt det seje der er i makerspace (3d printer, laser skære, venyl skære, mm)
+
+### projkter 
+
+- her havde vi et lille projkt hvor vi skulle 3dprint en figur med et rumfanget på 5cm^3 
