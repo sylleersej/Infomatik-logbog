@@ -87,3 +87,7 @@ https://miro.com/app/board/uXjVG2YV6VM=/
 Så har vi også 3D printede en kasse til højtalerenheden, som vi gjorde gennem fusion, og printede på bambolab printerne.
 
 vi havde dog en del problemer, som vi skulle undersøge og løse undervejs, blandt andet med tx og rx pins på ardinouen. men alt i alt fik vi det til at virke 
+
+## Drone projket
+
+vi har også været igennem et lille droneforløb (https://github.com/sebball5/Tello-projekt)
