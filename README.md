@@ -65,4 +65,25 @@ Vi har også haft om 3d stuff, her havde vi om:
 
 ### projkter 
 
-- her havde vi et lille projkt hvor vi skulle 3dprint en figur med et rumfanget på 5cm^3 
+- her havde vi et lille projkt hvor vi skulle 3dprint en figur med et rumfanget på 5cm^3
+
+## vandmåler
+
+vi havde et ståre projekt hvor vi skulle lave en fugtighedsmåler, til at tjekke om en plante skulle vandes.(https://github.com/andersvinbaek/rainbow-cache/blob/main/README.md)
+
+her har vi brugt: en Arduino UNO, Grove capacitive moisture sensor, grove 16x2 LCD RGB backlight, DFPlayer mini og en højtaler. 
+
+her var målet at få den til at afspille musik, når ens plante manglede vand.
+
+flowchart til ideen:
+<img width="1043" height="412" alt="image" src="https://github.com/user-attachments/assets/eedb570b-fb0f-40ac-b209-d46ee6e54030" />
+
+blockdiagram: 
+<img width="886" height="550" alt="image" src="https://github.com/user-attachments/assets/b8d3cfd2-d2d0-4734-92d7-5fdb61ba43d7" />
+
+flowchart til koden:
+https://miro.com/app/board/uXjVG2YV6VM=/
+
+Så har vi også 3D printede en kasse til højtalerenheden, som vi gjorde gennem fusion, og printede på bambolab printerne.
+
+vi havde dog en del problemer, som vi skulle undersøge og løse undervejs, blandt andet med tx og rx pins på ardinouen. men alt i alt fik vi det til at virke 
