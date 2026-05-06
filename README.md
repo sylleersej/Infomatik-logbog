@@ -88,6 +88,13 @@ Så har vi også 3D printede en kasse til højtalerenheden, som vi gjorde gennem
 
 vi havde dog en del problemer, som vi skulle undersøge og løse undervejs, blandt andet med tx og rx pins på ardinouen. men alt i alt fik vi det til at virke 
 
+- gennem dette projket havde jeg stort fokus på at lære, hvordan man koder på arfuino UNo
+- hvordan man får analogdata ind og behandler det
+- hvordan man sænder signaler ud igen
+- fil typer
+- hvordan man skaber komunikition mellen de forskellige dele
+- hvordan man 3d printer
+
 ## Drone projket
 
 vi har også været igennem et lille droneforløb (https://github.com/sebball5/Tello-projekt)
@@ -115,5 +122,12 @@ som der ses på blokdiagrammet snakker manden tysk, computerens mikrofon opfange
 ### Client- Server akitektuktur
 
 <img width="975" height="364" alt="image" src="https://github.com/user-attachments/assets/16c4743b-b10c-439d-b80f-f01b7ff85b52" />
+
+i dette projekt har jeg haft stort fokus på:
+  - hvordan man koder i python
+  - internet
+  - hvordan man komunikere til api's
+  - hvordan man får forskellige dele til at komunikere
+  - hvordan man sender fejlkoder
 
 
